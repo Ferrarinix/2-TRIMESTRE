@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Jimmy McGill",
-                correta: false
+                correta: true
             },
             {
                 texto: "Saul Goodman",
-                correta: true
+                correta: false
             }
         ]
     },
